@@ -1,5 +1,5 @@
 # Nguyễn Văn Việt PM_2_4
-### My assignment in Figma:
+### My assignment in Figma, I will a link on Github ^^
 1. [Week 1](https://www.figma.com/file/rzquFA5Ibg8TzecQvYTep3/Assignment-Group-04-DevC-PM-2-4?node-id=0%3A1)
 2. [Week 2](https://www.figma.com/file/rzquFA5Ibg8TzecQvYTep3/Assignment-Group-04-DevC-PM-2-4?node-id=95%3A2)
 3. [Week 3](https://www.figma.com/file/rzquFA5Ibg8TzecQvYTep3/Assignment-Group-04-DevC-PM-2-4?node-id=194%3A0)
